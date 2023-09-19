@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+.navbar{
+  margin: 10px 10px 10px;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  padding-right: 100px;
+  padding-left: 100px;
+  border: 1px solid lightgray;
+}
+
+.login{
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron{
+  margin-top: 30px;
+  padding: 40px;
+}
+
+.footer{
+  margin: 30px 10px 10px;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  border: 1px solid lightgray;
+
+}
